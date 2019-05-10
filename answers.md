@@ -46,3 +46,7 @@ of course, is much more plentiful.
 **Describe the difference in what happens when a JMP command is executed versus a CALL command.**
 In a `JMP` command, the cpu literally jumps to the given address stored in the register it calls, unconditionally, and keeps procedually working from there.
 There is no paired `RTN` command, so there is no storing of the previous PC location on the stack, and no returning to the address right after the `JMP` command.
+
+# SPRINT CHALLENGE IN MY WEEKLY PROJECT
+
+https://github.com/tryingtokeepup/Computer-Architecture/
